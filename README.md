@@ -1,6 +1,6 @@
 # Adonis API
 
-A simple API.
+A simple RESTful API.
 
 | Verb | URL | Action | Check ID | Check fields |
 | ---- | --- | ------ | ----------- | --------------- |
@@ -14,7 +14,7 @@ A simple API.
 
 Create 2 databases (Postgres by default in the package.json), the first for the API and the second for tests.
 
-```
+```sql
 CREATE DATABASE adonis_api;
 CREATE DATABASE adonis_api_test;
 ```

@@ -6,7 +6,7 @@ tmp
 
 # Environment variables, never commit this file
 .env
-.env_testing
+.env.testing
 
 # Lock files
 package-lock.json
